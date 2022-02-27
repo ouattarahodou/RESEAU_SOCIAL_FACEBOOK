@@ -1,0 +1,14 @@
+.element
+{
+    border: 2px solid blue; 
+    overflow: hidden;
+}
+.element img
+{
+    width: 350px;
+    float: left;
+}
+.clear 
+{
+    clear: both;
+}
